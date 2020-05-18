@@ -4,7 +4,7 @@ We mainly conducted three experiments:
 *  Neural network model for daily csaes per country
 *  Neural network model for total cases for a given country
 ## Exponential model for daily cases per country
-## Neural network model for daily csaes per country
+## Neural network model for daily cases per country
 Regarding the credit assignent problem the main probelem faced was that the size data was small so that was a limitation for the model's
 results. There was a trade off in this case as the weather data that is used to increase the number of features used was the limiting factor.
 The weather data's size was small and if we wanted to increase the training data used, we had to elimante the features obtained from the 
