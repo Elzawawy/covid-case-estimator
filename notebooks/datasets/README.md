@@ -8,8 +8,8 @@ And lucky for us, we found a lot of interesting datasets that we can work on to 
 Out of all datasets we found, we were particulary interested in the **four** datasets below:
 
 * Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE available on [Github](https://github.com/CSSEGISandData/COVID-19) and their awesome [Visualization Tools](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6).
-* (Worldometers Daily Data)[https://www.worldometers.info/coronavirus/] which is web-scrapped by David Bumbeishvili on his [Github](https://github.com/bumbeishvili/covid19-daily-data).
-* (Our World In Data Coronavirus Dataset)[https://ourworldindata.org/coronavirus] by OWID organization, also avaiable on [Github](https://github.com/owid/covid-19-data).
+* [Worldometers Daily Data](https://www.worldometers.info/coronavirus/) which is web-scrapped by David Bumbeishvili on his [Github](https://github.com/bumbeishvili/covid19-daily-data).
+* [Our World In Data Coronavirus Dataset](https://ourworldindata.org/coronavirus) by OWID organization, also avaiable on [Github](https://github.com/owid/covid-19-data).
 * COVID19 Global Weather Data by Pierre Winter on [Kaggle](https://www.kaggle.com/winterpierre91/covid19-global-weather-data).
 * COVID-19 Country Data by Patrick on [Kaggle](https://www.kaggle.com/bitsnpieces/covid19-country-data).
 
