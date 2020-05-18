@@ -26,7 +26,7 @@ This work is next divided as follows:
   * What are their Results ?
   * Are they as expected, or we need to solve a credit assignment problem ?
   
-Our **contributions** to this case study is the models we implemented and the datasets we curated from multipe data sources and will be open-sourcing those as well in Kaggle as a way to help the community take one more step towards fighting COVID-19. 
+Our **contributions** to this case study is the models we implemented and the datasets we curated from multipe data sources and will be open-sourcing those as well both in Github & Kaggle as a way to help the community take one more step towards fighting COVID-19. 
 
 ### Contributors & Team Acknowledgments
 * Amr Elzawawy [@Elzawawy](https://github.com/Elzawawy)
