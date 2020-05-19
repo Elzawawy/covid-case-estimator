@@ -37,5 +37,14 @@ This is normal as the time series forcasting problem needs alot of data for the 
 * Weather Features are very relevant in context of daily cases.
 * Daily Deaths and Recovered Cases were also of good importance to the daily number of cases.
 
+## Neural network model for total cases for a given country
+For all the four attempts, providing training data with features that correlated with the total cases value was the main challenge. Having a features that have a high correlation with the total cases value help alot to decrease the testing error. Alot of features have been tried and their correlation with the total cases value have been tested. At first, the 4 models give a poor testing results because of the data until we reach the 9 features suitable to determine and predict the total cases of COVID-19 in a country.
+
+Although the dataset was very poor (the size with small), the models show an acceptable results regarding the root mean square error or prediction score.
+
+**Learnt Lessons:**
+* The higher the correlation between features and target value, the better the result of training and testing.
+* The regression model can give an acceptable results although the training data may be small.
+* COVID-19 total deaths and tests were highly correlated with the total cases value. So, we can depend on them tp predict the number of COVID-19 total cases in a country.
 
 
