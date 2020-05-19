@@ -17,7 +17,7 @@ In each folder, you will find the original dataset files, and also the files we 
 
 **Note.** We use Pickle Files to save our `dicts` in order to preserve the object types by Serilization and Deserilization of objects.
 
-## More Data resources we found interesting through the way (Might be helpful for anyone looking)
+## More Data resources we found through the way (Might help)
 
 * [Weather Features Dataset](https://www.kaggle.com/giginghn/weather-features) by [giangnguyen](https://www.kaggle.com/giginghn) from kaggle.
 
