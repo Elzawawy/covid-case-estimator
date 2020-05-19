@@ -5,7 +5,7 @@ The most prevelant problem that appears when a **new data science exploration ta
 ![](https://miro.medium.com/max/1200/1*GRHR16nydMdpADOi5MIk_w.jpeg)
 
 And lucky for us, we found a lot of interesting datasets that we can work on to **curate our own datasets** for the task in hand.
-Out of all datasets we found, we were particulary interested in the **four** datasets below:
+Out of all datasets we found, we were particulary interested in the **five** datasets below:
 
 * Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE available on [Github](https://github.com/CSSEGISandData/COVID-19) and their awesome [Visualization Tools](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6).
 * [Worldometers Daily Data](https://www.worldometers.info/coronavirus/) which is web-scrapped by David Bumbeishvili on his [Github](https://github.com/bumbeishvili/covid19-daily-data).
