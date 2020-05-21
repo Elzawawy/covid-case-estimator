@@ -35,7 +35,7 @@ This work is next divided into 2 parts as follows:
   
  If you're interested to know more about this, head to [models-notebooks](notebooks/models).
   
-Our **contributions** to the COVID-19 case study is the models we implemented to estimate both daily and total cases for countries and the datasets we curated from multipe data sources. We will be open-sourcing both on Github as a way in the hopes of helping the community take one more step towards fighting COVID-19.
+Our work contributions include the models we implemented to estimate both daily and total number of cases for countries and also the datasets we curated from multiple data sources. We open-sourced both on Github in the hopes of helping the community take one more step towards fighting COVID-19.
 
 ### <a name="team"></a> Contributors & Acknowledgments
 * Amr Elzawawy [@Elzawawy](https://github.com/Elzawawy)
